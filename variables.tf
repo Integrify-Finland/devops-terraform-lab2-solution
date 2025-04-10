@@ -19,6 +19,6 @@ variable "tags" {
 
   type = any
 
-  description = "Tags"
+  description = "This variable holds the value of the tags"
 
 }
